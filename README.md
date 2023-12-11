@@ -1,4 +1,4 @@
-**# IT-Troubleshooting-Guide**
+# IT-Troubleshooting-Guide
 This is a comprehensive list of different console commands and step-by-step instructions for resolving general technical issues.
 
 ## To add a new user to an Azure Active Directory
